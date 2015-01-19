@@ -1,0 +1,13 @@
+{
+  "name": "Velib Geolocalisation",
+  "description": "Velib Geolocalisation est une application web de FireFox OS permettant de trouver le Velib le plus proche de sa position geographique actuelle à paris.",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/img/logo.png"
+  },
+  "developer": {
+    "name": "KYM",
+    "url": "http://votre-site-web.org"
+  },
+  "default_locale": "fr"
+}
